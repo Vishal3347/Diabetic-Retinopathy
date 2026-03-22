@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+dr_env/
+.env
+
+# Flask
+instance/
+.webassets-cache
+
+# TensorFlow / ML
+*.pb
+*.txt
+# Note: Keep retrained_graph.pb if you want the model on GitHub
+# but it's 87MB (near GitHub limit).
+
+# Datasets (Excluded because they are too large)
+"Dataset Full"/
+dataset/
+"Test Images"/
+
+# OS
+.DS_Store
+Thumbs.db
