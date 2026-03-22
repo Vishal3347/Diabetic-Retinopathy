@@ -3,7 +3,7 @@
 A Flask web application that uses a pre-trained TensorFlow 1.x model to classify diabetic retinopathy stages from retinal images.
 
 ## 🚀 Live Demo
-[View Live App on Render](https://diabetic-retinopathy-app-pl1g.onrender.com/)
+https://diabetic-retinopathy-app-pl1g.onrender.com
 
 ## 🔑 Credentials
 - **Username:** `admin`
